@@ -1,2 +1,3 @@
 # DIO.Series
-Aplicativo de séries
+## Aplicativo de séries
+Projeto Bootcamp DIO
